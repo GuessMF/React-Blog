@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.fdb8ea05.css",
-    "main.js": "/static/js/main.f2f72944.js",
+    "main.css": "/static/css/main.75d45de4.css",
+    "main.js": "/static/js/main.0e8e13cf.js",
+    "static/media/sportSocial.webp": "/static/media/sportSocial.71727714cad1f6f43dd0.webp",
+    "static/media/mobx_state_tree.webp": "/static/media/mobx_state_tree.d4028a3bd131ea8c9023.webp",
     "static/media/avatar.webp": "/static/media/avatar.828f148baaa5942f5729.webp",
+    "static/media/Chicken.webp": "/static/media/Chicken.1098dbac200217c48271.webp",
     "static/media/Ecars.webp": "/static/media/Ecars.ae1f64a9af1d3c12d98c.webp",
     "static/media/Pankov_Segey_React_Frontend_Developer.pdf": "/static/media/Pankov_Segey_React_Frontend_Developer.152592b2733251a1b737.pdf",
     "static/media/Rilab.webp": "/static/media/Rilab.14a749fd94278616d8b5.webp",
+    "static/media/MarketPlace.webp": "/static/media/MarketPlace.f0f1e34f68f3355f43db.webp",
+    "static/media/JKH.webp": "/static/media/JKH.264f8e91708f51459419.webp",
+    "static/media/vue.webp": "/static/media/vue.bc8ff5e26110d1751033.webp",
     "static/media/Kema-fitness.webp": "/static/media/Kema-fitness.271a6f26e04f71f3e275.webp",
+    "static/media/WeatherApp.webp": "/static/media/WeatherApp.e50d2555502889b652cf.webp",
     "static/media/gsap.svg": "/static/media/gsap.2081c63e8ac9bdbc0a001478c3126641.svg",
     "static/media/Araney.webp": "/static/media/Araney.95b4615ea09816858315.webp",
     "static/media/Armstrong_Canvas.webp": "/static/media/Armstrong_Canvas.90e64074174f7d9309a2.webp",
     "static/media/Armstrong_Css.webp": "/static/media/Armstrong_Css.3f5cb5e616ad50fc5a9e.webp",
+    "static/media/redux.webp": "/static/media/redux.923ec3107661ce964f7d.webp",
     "static/media/HeadPhones.webp": "/static/media/HeadPhones.d54895051b4452b8f64e.webp",
+    "static/media/api.webp": "/static/media/api.46848634d75f1674a9c9.webp",
     "static/media/Like_Me.webp": "/static/media/Like_Me.17cb2e06839af0e71a4c.webp",
     "static/media/react.webp": "/static/media/react.163d730d868592236293.webp",
     "static/media/Recording.webp": "/static/media/Recording.8e8c13d737204149a02b.webp",
@@ -23,6 +32,7 @@
     "static/media/html-5.webp": "/static/media/html-5.ee6b6a30b9c355c1d466.webp",
     "static/media/Maze.webp": "/static/media/Maze.5653d210b097a816ee8e.webp",
     "static/media/css-3.webp": "/static/media/css-3.5e174b18f5d86d82fd23.webp",
+    "static/media/pug.svg": "/static/media/pug.e22b8f03c7f0899d14cdaf125cc7d3e9.svg",
     "static/media/bootstrap.webp": "/static/media/bootstrap.e5d6638c3700a23e0a7c.webp",
     "static/media/tailwind.webp": "/static/media/tailwind.90afb937bb4251bbfa68.webp",
     "static/media/githubpages.webp": "/static/media/githubpages.3e79371f576f75910c75.webp",
@@ -32,15 +42,16 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/vitejs.svg": "/static/media/vitejs.716c8992aea4e52bd746bad643a6784f.svg",
     "index.html": "/index.html",
     "static/media/download_icon.webp": "/static/media/download_icon.16dfa5306b771fa457f2.webp",
     "static/media/download.svg": "/static/media/download.105db99b9142b86bbb9ac299179261ac.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.fdb8ea05.css.map": "/static/css/main.fdb8ea05.css.map",
-    "main.f2f72944.js.map": "/static/js/main.f2f72944.js.map"
+    "main.75d45de4.css.map": "/static/css/main.75d45de4.css.map",
+    "main.0e8e13cf.js.map": "/static/js/main.0e8e13cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdb8ea05.css",
-    "static/js/main.f2f72944.js"
+    "static/css/main.75d45de4.css",
+    "static/js/main.0e8e13cf.js"
   ]
 }
